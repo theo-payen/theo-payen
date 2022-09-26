@@ -1,8 +1,6 @@
 # Hello there i'm Théo 👋
 ## about
 develloper python bash and powershell
-## Web site
-[Portfolio](https://theo-payen.fr/)
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://theo-payen.fr/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theo-payen/)
