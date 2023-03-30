@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Engin`s GitHub stats](https://github-readme-stats.vercel.app/api?theo-payen=dirien&show_icons=true&theme=radical)
+![Engin`s GitHub stats](https://github-readme-stats.vercel.app/api?username=theo-payen&show_icons=true&theme=radical)
